@@ -1,4 +1,4 @@
-mermaid
+```mermaid
 classDiagram
     class Zeppelin {
         Porta: 8080
